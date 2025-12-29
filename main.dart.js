@@ -92555,7 +92555,7 @@ r=A.dv()?a.e:a.w
 if(A.dv()){q=a.e
 q=q==null?l:q.du(B.G)}else{q=a.w
 q=q==null?l:q.du(B.G)}p=t.VO
-r=A.jd(l,l,l,B.aX,l,l,!0,l,A.bF(A.b([A.bF(l,l,q,"Mohammad Zeeshan Khan.")],p),l,r,"Hello, I\u2019m "),B.ag,l,l,B.al,B.ai)
+r=A.jd(l,l,l,B.aX,l,l,!0,l,A.bF(A.b([A.bF(l,l,q,"Feshan Khan.")],p),l,r,"Hello, I\u2019m "),B.ag,l,l,B.al,B.ai)
 q=t.p
 o=A.dt(A.b([new A.fx(b.ch,new A.a7B(a),l,l,t.x_),new A.fx(b.cy,new A.a7C(a),l,l,t.D0),A.br("Developer",l,l,l,A.dv()?a.e:a.w,l,l)],q),B.dk,l,B.B,B.x,0)
 n=A.dv()?a.e:a.w
@@ -93230,7 +93230,7 @@ s=p.e
 s===$&&A.a()
 p=p.c
 p===$&&A.a()
-return new A.oO(o,s,p,"Mohammad Zeeshan's Portfolio",r,q,B.wW,B.SO,B.Uv,!1,null)},
+return new A.oO(o,s,p,"Feshan Khan's Portfolio",r,q,B.wW,B.SO,B.Uv,!1,null)},
 $S:573}
 A.Rv.prototype={
 HH(a,b){},
